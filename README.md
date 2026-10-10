@@ -1,1 +1,4 @@
-# 0seiken0.github.io
+# seikens personal website
+plans:
+- add etherpad support if possible
+- host custom robo guides/info
